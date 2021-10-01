@@ -72,10 +72,7 @@ html {
     line-height: 1.2;
     font-weight: font-weight-light;
 }
-body {
-    min-width: 320px;
-    font-family: Chivo, sans-serif;
-}
+
 .wrapper {
     display: flex;
     flex-direction: column;
